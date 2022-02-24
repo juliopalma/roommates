@@ -1,0 +1,13 @@
+1) Crear el molde del proyecto (server.js, static, NPM install)
+2) Colocar el index.html del apoyo, en la carpeta static
+3) Crear el db.js para guardar los roommates y los gastos
+4) Implementar las rutas 
+* /roommate POST: Almacena un nuevo roommate ocupando random user.
+● /roommate GET: Devuelve todos los roommates almacenados.
+● /gastos GET: Devuelve todos los gastos almacenados
+
+
+
+falta debe y recibe
+
+y en gastos - > nombre, comentario y monto
